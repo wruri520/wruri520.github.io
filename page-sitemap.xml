@@ -7,6 +7,13 @@
     </url>
     
     <url>
+        <loc>http://www.huweihuang.com/about/</loc>
+        <lastmod>2019-04-19T09:53:11.520Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
         <loc>http://www.huweihuang.com/404.html</loc>
         <lastmod>2019-04-19T08:49:58.525Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -23,13 +30,6 @@
     <url>
         <loc>http://www.huweihuang.com/archive/</loc>
         <lastmod>2019-04-19T08:49:45.540Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    <url>
-        <loc>http://www.huweihuang.com/about/</loc>
-        <lastmod>2019-04-19T08:49:36.868Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
